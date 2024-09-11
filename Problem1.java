@@ -1,4 +1,4 @@
-public class Problem0
+public class Problem
 {
   public static void main(String[] args)
   {
@@ -13,6 +13,6 @@ public class Problem0
     System.out.println("number is now " + (value -= 1));
     System.out.println("number is now " + (value -= 1));
     System.out.println("number is now " + (value -= 1));
-    
+
   }
 }
