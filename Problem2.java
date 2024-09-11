@@ -11,6 +11,7 @@ public class Problem2
     System.out.println((value % 482) /2);
 
     System.out.println(value / 55);
+    
 
 
   }
