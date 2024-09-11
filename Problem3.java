@@ -16,5 +16,6 @@ public class Problem3
     System.out.println(val2);
     System.out.println(val3);
     System.out.println(val4);
+
   }
 }
