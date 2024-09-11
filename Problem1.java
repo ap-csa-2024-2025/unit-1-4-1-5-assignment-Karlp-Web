@@ -13,6 +13,5 @@ public class Problem1
     System.out.println("number is now " + (value -= 1));
     System.out.println("number is now " + (value -= 1));
     System.out.println("number is now " + (value -= 1));
-
   }
 }
